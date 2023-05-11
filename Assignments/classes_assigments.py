@@ -28,7 +28,7 @@
 
 # Question 5
 # Write a Python class BankAccount with attributes like account_number, balance, date_of_opening and customer_name,
-# and methods like deposit, withdraw, and check_balance.
+# and methods like create_user_account deposit, withdraw, and check_balance.
 
 
 # Question 6
